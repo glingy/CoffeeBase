@@ -1,0 +1,24 @@
+{
+  "name": "coffee-base",
+  "version": "1.0.0",
+  "description": "A base layout for browser coffeescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "http://github.com/glingy/CoffeeBase",
+  "author": "Gregory Ling",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "browserify": "^16.2.2",
+    "browsersync": "0.0.1-security",
+    "coffeeify": "^3.0.1",
+    "coffeescript": "^2.3.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "uglifyify": "^5.0.1",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.0"
+  }
+}
